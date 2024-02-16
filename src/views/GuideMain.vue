@@ -2,7 +2,7 @@
   <div class="guide">
     <div class="guide__logo">
       <router-link :to="'/'">
-        <img src="../assets/main/mainlogo.svg" />
+        <img src="../assets/logo.svg" />
       </router-link>
     </div>
     <p class="guide__name">Гайд по разгону ОЗУ / DDR4 на платформах Intel</p>
@@ -127,7 +127,7 @@ export default {
   cursor: pointer;
 }
 .guide__logo img {
-  width: 2.34375vw;
+  width: 3.34375vw;
 }
 .guide__header {
   width: 100%;
