@@ -120,7 +120,10 @@ Linpack Xtreme / OCCT / Prime95 / Cinebench R23 / Y-Cruncher / MemTestPro / TM5<
   },
   methods: {
     nextStep() {
-      window.location.href = "https://discord.gg/Kf6J8CGySF";
+      window.open(
+        "https://vk.com/airopctuning?w=product-212081876_6968518%2Fquery",
+        "_blank"
+      );
       // if(localStorage.getItem('en') === null) {
       //   this.$emit('payment')
       //   this.$store.state.price = 2490

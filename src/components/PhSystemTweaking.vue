@@ -98,7 +98,10 @@ export default {
   },
   methods: {
     nextStep() {
-      window.open("https://vk.com/airopctuning", "_blank");
+      window.open(
+        "https://vk.com/airopctuning?w=product-212081876_6968521%2Fquery",
+        "_blank"
+      );
       //   if(localStorage.getItem('en') === null) {
       //       this.$emit('payment')
       //       this.$store.state.price = 990

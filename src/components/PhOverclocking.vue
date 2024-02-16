@@ -87,7 +87,7 @@ export default {
   },
   methods: {
     buy() {
-      window.location.href = "https://discord.gg/vjwQ5NP7Gh";
+      window.open("https://vk.com/airopctuning", "_blank");
       // if(localStorage.getItem('en') === null) {
       //   if (this.inputRam === true || this.inputGpu === true || this.inputCpu === true) {
       //     const summ = this.getRam() + this.getGpu() + this.getCpu()
