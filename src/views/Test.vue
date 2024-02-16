@@ -30,7 +30,7 @@
             <div class="test__games">
               <div class="test__game">
                 <p class="test__names">
-                  Custom Tweaking ( Custom ISO + RAM / GPU OC )
+                  Premium настройка ( Custom ISO + RAM / GPU OC )
                 </p>
                 <p class="test__des">
                   NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
@@ -76,7 +76,7 @@
             <div class="test__games">
               <div class="test__game">
                 <p class="test__names">
-                  Custom Tweaking ( Custom ISO + RAM / GPU OC )
+                  Premium настройка ( Custom ISO + RAM / GPU OC )
                 </p>
                 <p class="test__des">
                   NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
@@ -127,16 +127,16 @@ export default {
   data() {
     return {
       title:
-        "Прирост производительности от покупки Custom Tweaking в сравнении с <br> стоковой Windows 10 22H2 и XMP профилем 4000 CL19-19-19 ",
+        "Прирост производительности от покупки Premium настройки в сравнении с <br> стоковой Windows 10 22H2 и XMP профилем 4000 CL19-19-19 ",
       titleMob:
-        "Прирост производительности от покупки Custom Tweaking в сравнении с стоковой Windows 10 21H2 и XMP профилем 4000 CL19-19-19 ",
+        "Прирост производительности от покупки Premium настройки в сравнении с стоковой Windows 10 21H2 и XMP профилем 4000 CL19-19-19 ",
     };
   },
   methods: {
     checkLang() {
       if (localStorage.getItem("en") === null) {
         this.title =
-          "Прирост производительности от покупки Custom Tweaking в сравнении с <br> стоковой Windows 10 22H2 и XMP профилем 4000 CL19-19-19 ";
+          "Прирост производительности от покупки Premium настройки в сравнении с <br> стоковой Windows 10 22H2 и XMP профилем 4000 CL19-19-19 ";
       } else {
         this.title =
           "Performance gains from buying Custom Tweaking vs. stock Windows 10 21H2<br> and XMP profile 4000 CL19-19-19 ";
