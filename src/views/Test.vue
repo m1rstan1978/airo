@@ -33,19 +33,19 @@
                   Premium настройка ( Custom ISO + RAM / GPU OC )
                 </p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__game">
                 <p class="test__names">RAM / GPU OC</p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__game">
                 <p class="test__names">RAM OC</p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__game">
@@ -53,7 +53,7 @@
                   Windows 22H2 Stock XMP 4000 CL19-19-19-39
                 </p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
             </div>
@@ -79,7 +79,7 @@
                   Premium настройка ( Custom ISO + RAM / GPU OC )
                 </p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__card">
@@ -88,7 +88,7 @@
               <div class="test__game">
                 <p class="test__names">RAM / GPU OC</p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__card">
@@ -97,7 +97,7 @@
               <div class="test__game">
                 <p class="test__names">RAM OC</p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__card">
@@ -108,7 +108,7 @@
                   Windows 21H2 Stock XMP 4000 CL19-19-19-39
                 </p>
                 <p class="test__des">
-                  NVIDIA Geforce RTX 3060 + CPU INTEL I5 12600K
+                  NVIDIA Geforce RTX 3060 + Intel i5 12600K
                 </p>
               </div>
               <div class="test__cardsec">

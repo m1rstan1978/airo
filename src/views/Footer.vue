@@ -119,6 +119,14 @@ export default {
   display: flex;
   align-items: center;
 }
+.footer__icon {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.footer__icon:hover {
+  transform: scale(0.94);
+}
+
 .footer__icon img {
   width: 1.5625vw;
 }

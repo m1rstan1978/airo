@@ -1,11 +1,7 @@
 <template>
   <div class="clients">
     <h2 class="clients__header">Наши клиенты</h2>
-    <div
-      class="clients__content"
-      onmousedown="return false"
-      onselectstart="return false"
-    >
+    <div class="clients__content">
       <img src="@/assets/clients/1.png" />
     </div>
   </div>

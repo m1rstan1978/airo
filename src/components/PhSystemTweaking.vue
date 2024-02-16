@@ -23,7 +23,7 @@
           <p class="system__price" v-html="listPhSystem.price"></p>
         </div>
       </div>
-      <div class="system__img"><img :src="'../system/card.webp'" /></div>
+      <div class="system__img"><img :src="'../system/1.png'" /></div>
     </div>
     <div class="system__content_mob">
       <div
@@ -49,7 +49,7 @@
             <p class="system__price" v-html="listPhSystem.price"></p>
           </div>
           <div class="system__img">
-            <img src="../assets/system/card.webp" />
+            <img src="@/assets/system/1.webp" />
           </div>
         </div>
       </div>
@@ -98,7 +98,7 @@ export default {
   },
   methods: {
     nextStep() {
-      window.location.href = "https://discord.gg/bQkY2sRVne";
+      window.open("https://vk.com/airopctuning", "_blank");
       //   if(localStorage.getItem('en') === null) {
       //       this.$emit('payment')
       //       this.$store.state.price = 990
@@ -159,7 +159,7 @@ export default {
   margin-bottom: 4.270833333333333vw;
 }
 .system__img img {
-  margin-right: 3.125vw;
+  margin-right: 6.125vw;
   margin-bottom: 3.125vw;
 }
 .system__line img {
