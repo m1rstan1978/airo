@@ -224,7 +224,7 @@ export default {
   margin-right: 7.8125vw;
 }
 .overclocking__img img {
-  width: 23.4375vw;
+  width: 20.4375vw;
 }
 .overclocking__line {
   margin: 0 1.875vw 0 3.6458333333333335vw;
