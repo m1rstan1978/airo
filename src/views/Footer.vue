@@ -2,9 +2,7 @@
   <footer class="footer">
     <div class="footer__content">
       <div class="footer__logo" v-if="en === true">
-        <router-link :to="'/'"
-          ><img src="@/assets/main/mainlogo.svg"
-        /></router-link>
+        <router-link :to="'/'"><img src="@/assets/logo.svg" /></router-link>
       </div>
       <div class="footer__logo" v-else>
         <router-link :to="'/en'"
@@ -78,13 +76,13 @@ export default {
   border-top: 1px solid #22c8ff;
 }
 .footer__content {
-  padding: 2.864583333333333vw 10.885416666666666vw;
+  padding: 2.1vw 1.98vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .footer__logo img {
-  width: 1.9791666666666665vw;
+  width: 2.9791666666666665vw;
 }
 .footer__up {
   border: 1px solid #ffffff;

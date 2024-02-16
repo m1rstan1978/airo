@@ -10,10 +10,10 @@
               /></router-link>
             </p>
             <div class="main__info"></div>
-            <div class="main__languages">
+            <!-- <div class="main__languages">
               <p class="main__language" v-if="lang === null">RU</p>
               <p class="main__language" v-else>EN</p>
-            </div>
+            </div> -->
           </div>
         </header>
         <div class="main__description">
