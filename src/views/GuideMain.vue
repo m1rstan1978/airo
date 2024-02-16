@@ -2,7 +2,7 @@
   <div class="guide">
     <div class="guide__logo">
       <router-link :to="'/'">
-        <img src="../assets/main/phantom.svg" />
+        <img src="../assets/main/mainlogo.svg" />
       </router-link>
     </div>
     <p class="guide__name">Гайд по разгону ОЗУ / DDR4 на платформах Intel</p>
@@ -63,7 +63,7 @@
     <div class="guide__content">
       <router-view name="guide"></router-view>
     </div>
-    <div class="guide__footer"><img src="../assets/guide/perehod.webp" /></div>
+    <div class="guide__footer"><img :src="'../preload/perehod.svg'" /></div>
   </div>
 </template>
 
@@ -117,7 +117,7 @@ export default {
 .guide {
   position: relative;
   height: 100vh;
-  background: #070200;
+  background: #000205;
   overflow: hidden;
 }
 .guide__logo {
@@ -173,7 +173,7 @@ export default {
   margin-left: 1.25vw;
 }
 .guide__menu ul li:hover {
-  background: #ff0000;
+  background: #22c8ff;
   color: #fff;
 }
 .guide__footer {
@@ -187,7 +187,7 @@ export default {
   width: 100vw;
 }
 .active {
-  background: #ff0000;
+  background: #22c8ff;
   color: #fff;
 }
 </style>

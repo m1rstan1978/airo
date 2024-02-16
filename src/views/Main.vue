@@ -63,13 +63,12 @@
         <header>
           <div class="mobile__content">
             <p class="mobile__title">
-              <router-link :to="'/'">Phantom</router-link>
+              <router-link :to="'/'"
+                ><img src="@/assets/logo.svg" />
+              </router-link>
             </p>
             <div class="mobile__img">
-              <img src="../assets/headerMob/logo.png" />
-            </div>
-            <div class="mobile__lang">
-              <p class="mobile__langa">EN</p>
+              <img src="../assets/main/mainlogo.svg" />
             </div>
           </div>
         </header>
@@ -296,7 +295,7 @@ header {
 }
 .mobile {
   display: none;
-  background: #070200;
+  background: #000205;
   min-height: 100vh;
 }
 header {

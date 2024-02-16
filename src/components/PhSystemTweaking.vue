@@ -23,7 +23,7 @@
           <p class="system__price" v-html="listPhSystem.price"></p>
         </div>
       </div>
-      <div class="system__img"><img :src="'../system/1.png'" /></div>
+      <div class="system__img"><img :src="'../system/1.webp'" /></div>
     </div>
     <div class="system__content_mob">
       <div
