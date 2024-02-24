@@ -23,12 +23,12 @@
       </div>
       <div class="footer__icons">
         <div class="footer__icon">
-          <a href="https://vk.com/phantomboost" target="_blank"
+          <a href="https://vk.com/airopctuning" target="_blank"
             ><img src="../assets/footer/vk.svg"
           /></a>
         </div>
         <div class="footer__icon">
-          <a href="https://dsc.gg/phantom9" target="_blank"
+          <a href="https://discord.gg/dYWC64SMJn" target="_blank"
             ><img src="../assets/footer/discord.svg"
           /></a>
         </div>

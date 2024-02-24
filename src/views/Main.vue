@@ -4,11 +4,11 @@
       <div class="main" id="main">
         <header>
           <div class="main__content">
-            <p class="main__logo">
+            <div class="main__logo">
               <router-link :to="'/'"
-                ><img src="@/assets/logo.svg"
+                ><img src="../assets/logo.svg"
               /></router-link>
-            </p>
+            </div>
             <div class="main__info"></div>
             <!-- <div class="main__languages">
               <p class="main__language" v-if="lang === null">RU</p>
@@ -72,19 +72,19 @@
             </div>
           </div>
         </header>
-        <mobile-services @GoStepFirst="payment = true"></mobile-services>
+        <mobile-services></mobile-services>
         <mobile-test></mobile-test>
         <MobileWhyUs></MobileWhyUs>
         <mobile-discord></mobile-discord>
         <footer>
           <div class="footer__content">
             <div class="footer__img">
-              <a href="https://vk.com/phantomboost"
+              <a href="https://vk.com/airopctuning"
                 ><img src="../assets/SystemMobile/vk.png"
               /></a>
             </div>
             <div class="footer__img">
-              <a href="https://discord.gg/bQkY2sRVne"
+              <a href="https://discord.gg/dYWC64SMJn"
                 ><img src="../assets/SystemMobile/ds.png"
               /></a>
             </div>
@@ -186,13 +186,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 2.1vw 1.98vw;
-}
-.main__logo a {
-  font-weight: 700;
-  font-size: 1.25vw;
-  color: #ffffff;
-  text-decoration: none;
+  padding: 2.25vw 1.98vw;
 }
 .main__languages {
   border: 1px solid #ffffff;

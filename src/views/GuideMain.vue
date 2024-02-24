@@ -127,7 +127,6 @@ export default {
   cursor: pointer;
 }
 .guide__logo img {
-  width: 3.34375vw;
 }
 .guide__header {
   width: 100%;
